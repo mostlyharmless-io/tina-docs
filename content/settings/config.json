@@ -7,11 +7,11 @@
       "permanent": true
     }
   ],
-  "title": "Tina",
-  "description": "TinaCMS is a fully open-source headless CMS that supports Git",
-  "seoDefaultTitle": "TinaCMS – Headless CMS with GitHub & Markdown Support",
-  "publisher": "TinaCMS",
-  "applicationName": "TinaCMS",
+  "title": "Libre Tech Shop [Documentation]",
+  "description": "Documentation for Libre and Liberated Products",
+  "seoDefaultTitle": "Libre Tech Shop [Documentation]",
+  "publisher": "Mostly Harmless",
+  "applicationName": "LTSDocs",
   "siteUrl": "https://tina.io",
   "roadmapUrl": "https://tina.io/roadmap/",
   "licenseUrl": "https://github.com/tinacms/tinacms/blob/master/LICENSE",
